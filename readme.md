@@ -61,3 +61,5 @@ Certifique-se de que as seguintes ferramentas estão instaladas em seu ambiente 
 * O arquivo `insomnia-backend.yaml`, localizado na pasta `backend-gestao-marketplace`, contém a coleção de endpoints que pode ser importada no Insomnia para facilitar os testes da API.
 
 ---
+
+#### Feito com ♥ by Paulo H.G Pimentel
